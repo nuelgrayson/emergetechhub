@@ -217,7 +217,7 @@ select:visited {
 #cursor .cursor_inner {
   width: 6px;
   height: 6px;
-  background-color: #92d3d7;
+  background-color: #e75a08;
   border-radius: 6px;
   margin-top: -5px;
   margin-left: -4px; }
@@ -241,7 +241,7 @@ select:visited {
 /*-----------------------*/
 .section-title .site-tag {
   font-size: 24px;
-  color: #92d3d7; }
+  color: #e75a08; }
 
 .section-title h2 {
   font-size: 60px;
@@ -572,7 +572,7 @@ select:visited {
   display: inline-block;
   padding-bottom: 30px;
   margin-bottom: 30px;
-  border-bottom: 1px solid #e1e6ff; }
+  border-bottom: 1px solid #e75a08; }
   .single_widget .latest-blog-widget .blog-img-content:last-child, .twitter_update .tw_feed:last-child {
     border: none;
     padding: 0;
@@ -725,7 +725,7 @@ select:visited {
     cursor: pointer;
     line-height: 50px;
     position: absolute;
-    background-color: #92d3d7; }
+    background-color: #e75a08; }
     .search-body .outer-close i {
       color: #fff; }
 
@@ -968,7 +968,7 @@ select:visited {
     background-color: transparent; }
     .header-style-one .header-top-cta select option {
       color: #fff;
-      background-color: #92d3d7; }
+      background-color: #ff5b2e; }
 
 .header-style-one .header-social {
   display: inline-block;
@@ -1042,7 +1042,7 @@ select:visited {
   -ms-transform-origin: center top 0;
   transform-origin: center top 0;
   border-top: 10px solid #ff5b2e;
-  border-bottom: 10px solid #92d3d7;
+  border-bottom: 10px solid #ff5b2e;
   -webkit-box-shadow: 0 5px 10px 0 rgba(83, 82, 82, 0.1);
   box-shadow: 0 5px 10px 0 rgba(83, 82, 82, 0.1); }
   .it-menu-itemlist .dropdown-menu:after {
@@ -1086,13 +1086,13 @@ select:visited {
     .header-style-two .it-menu-itemlist .dropdown-menu li {
       margin: 0; }
   .header-style-two .it-menu-itemlist .dropdown:before {
-    color: #92d3d7; }
+    color: #ff5b2e; }
   .header-style-two .logo-sticky {
     display: none; }
   .header-style-two .quote-area {
     padding: 20px 25px;
     border-radius: 10px;
-    background-color: #92d3d7;
+    background-color: #ff5b2e;
     color: #fff;
     border-top-left-radius: 0;
     border-top-right-radius: 0; }
@@ -1171,7 +1171,7 @@ select:visited {
   line-height: 60px;
   margin-left: 60px;
   border-radius: 40px;
-  background-color: #92d3d7;
+  background-color: #ff5b2e;
   position: relative;
   overflow: hidden;
   z-index: 1; }
@@ -1251,7 +1251,7 @@ select:visited {
   .about-feature .about-feature-item {
     width: 50%; }
     .about-feature .about-feature-item:nth-child(2) .about-feature-icon {
-      color: #92d3d7; }
+      color: #ff5b2e; }
     .about-feature .about-feature-item .about-feature-icon {
       font-size: 40px;
       line-height: 1;
@@ -1292,7 +1292,7 @@ select:visited {
   .about-section-2 .about-text-item-1 .ab-btn a {
     font-family: "Roboto"; }
     .about-section-2 .about-text-item-1 .ab-btn a:first-child {
-      background-color: #92d3d7;
+      background-color: #ff5b2e;
       -webkit-box-shadow: 0px 8px 16px 0px rgba(146, 211, 215, 0.2);
       box-shadow: 0px 8px 16px 0px rgba(146, 211, 215, 0.2); }
   .about-section-2 .about-text-item-1 {
@@ -1319,9 +1319,9 @@ select:visited {
       .about-section-2 .about-counter .about-counter-item:nth-child(1) {
         background-color: #ff5b2e; }
       .about-section-2 .about-counter .about-counter-item:nth-child(2) {
-        background-color: #92d3d7; }
+        background-color: #ff5b2e; }
         .about-section-2 .about-counter .about-counter-item:nth-child(2) .about-counter-hover .count-icon-bg i {
-          color: #aae6ead9; }
+          color: #ff5b2e; }
       .about-section-2 .about-counter .about-counter-item:nth-child(3) {
         background-color: #54304d; }
         .about-section-2 .about-counter .about-counter-item:nth-child(3) .about-counter-hover .count-icon-bg i {
@@ -1405,7 +1405,7 @@ select:visited {
           font-size: 120px; }
       .about-us-section-3 .about-feature .about-feature-item:nth-child(2) {
         background-color: #effeff;
-        border-right: 2px solid #92d3d7; }
+        border-right: 2px solid #ff5b2e; }
         .about-us-section-3 .about-feature .about-feature-item:nth-child(2) .about-feature-iconbg i {
           color: #d4f5f7; }
 
@@ -1447,7 +1447,7 @@ select:visited {
     width: 190px;
     line-height: 60px;
     border-radius: 40px;
-    background-color: #92d3d7; }
+    background-color: #ff5b2e; }
     .about-page-about-section .about-content-1 .ab-btn-single a {
       z-index: 1;
       color: #fff;
@@ -1544,7 +1544,7 @@ select:visited {
         margin-top: 10px;
         font-weight: 700; }
       .core-platform-section .platform-text .core-platform-item li:hover {
-        background-color: #92d3d7; }
+        background-color: #ff5b2e; }
         .core-platform-section .platform-text .core-platform-item li:hover i,
         .core-platform-section .platform-text .core-platform-item li:hover span {
           color: #54304d; }
@@ -6218,3 +6218,78 @@ select:visited {
     height: 150px; } }
 
 /*---------------------------------------------------- */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.service-page-1 {
+  position: relative;
+}
+.section-padding--bottom {
+  padding-bottom: 80px;
+}
+.section-padding--top {
+  padding-top: 80px;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+user agent stylesheet
+section {
+  display: block;
+}
+.elementor-element {
+  --widgets-spacing: 20px;
+}
+.elementor-element, .elementor-lightbox {
+  --swiper-theme-color: #000;
+  --swiper-navigation-size: 44px;
+  --swiper-pagination-bullet-size: 6px;
+  --swiper-pagination-bullet-horizontal-gap: 6px;
+}
+.elementor-element {
+  --flex-direction: initial;
+  --flex-wrap: initial;
+  --justify-content: initial;
+  --align-items: initial;
+  --align-content: initial;
+  --gap: initial;
+  --flex-basis: initial;
+  --flex-grow: initial;
+  --flex-shrink: initial;
+  --order: initial;
+  --align-self: initial;
+  flex-basis: var(--flex-basis);
+  flex-grow: var(--flex-grow);
+  flex-shrink: var(--flex-shrink);
+  order: var(--order);
+  align-self: var(--align-self);
+}
+.elementor-kit-10 {
+  --e-global-color-primary: #6EC1E4;
+  --e-global-color-secondary: #54595F;
+  --e-global-color-text: #7A7A7A;
+  --e-global-color-accent: #61CE70;
+  --e-global-typography-primary-font-family: "Roboto";
+  --e-global-typography-primary-font-weight: 600;
+  --e-global-typography-secondary-font-family: "Roboto Slab";
+  --e-global-typography-secondary-font-weight: 400;
+  --e-global-typography-text-font-family: "Roboto";
+  --e-global-typography-text-font-weight: 400;
+  --e-global-typography-accent-font-family: "Roboto";
+  --e-global-typography-accent-font-weight: 500;
+}
