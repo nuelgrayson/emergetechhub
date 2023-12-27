@@ -1880,41 +1880,53 @@ select:visited {
 .skill-set-section {
   padding: 120px 0px 50px; }
 
-@-webkit-keyframes Rx-width-70 {
+@-webkit-keyframes Rx-width-85 {
   0% {
     width: 0%; }
   100% {
-    width: 70%; } }
+    width: 85%; } }
 
-@keyframes Rx-width-70 {
+@keyframes Rx-width-85 {
   0% {
     width: 0%; }
   100% {
-    width: 70%; } }
+    width: 85%; } }
 
-@-webkit-keyframes Rx-width-42 {
+@-webkit-keyframes Rx-width-95 {
   0% {
     width: 0%; }
   100% {
-    width: 42%; } }
+    width: 95%; } }
 
-@keyframes Rx-width-42 {
+@keyframes Rx-width-95 {
   0% {
     width: 0%; }
   100% {
-    width: 42%; } }
+    width: 95%; } }
 
-@-webkit-keyframes Rx-width-80 {
+@-webkit-keyframes Rx-width-100 {
   0% {
     width: 0%; }
   100% {
-    width: 80%; } }
+    width: 100%; } }
 
-@keyframes Rx-width-80 {
+@keyframes Rx-width-100 {
   0% {
     width: 0%; }
   100% {
-    width: 80%; } }
+    width: 100%; } }
+
+@-webkit-keyframes Rx-width-98 {
+  0% {
+    width: 0%; }
+  100% {
+    width: 98%; } }
+
+@keyframes Rx-width-98 {
+  0% {
+    width: 0%; }
+  100% {
+    width: 98%; } }
 
 @keyframes Rx-width-91 {
   0% {
@@ -1928,21 +1940,27 @@ select:visited {
   100% {
     width: 91%; } }
 
-.Rx-width-70 {
-  -webkit-animation-name: Rx-width-70;
-  animation-name: Rx-width-70;
+.Rx-width-85 {
+  -webkit-animation-name: Rx-width-85;
+  animation-name: Rx-width-85;
   -webkit-animation-fill-mode: forwards;
   animation-fill-mode: forwards; }
 
-.Rx-width-42 {
-  -webkit-animation-name: Rx-width-42;
-  animation-name: Rx-width-42;
+.Rx-width-95 {
+  -webkit-animation-name: Rx-width-95;
+  animation-name: Rx-width-95;
   -webkit-animation-fill-mode: forwards;
   animation-fill-mode: forwards; }
 
-.Rx-width-80 {
-  -webkit-animation-name: Rx-width-80;
-  animation-name: Rx-width-80;
+.Rx-width-100 {
+  -webkit-animation-name: Rx-width-100;
+  animation-name: Rx-width-100;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards; }
+
+.Rx-width-98 {
+  -webkit-animation-name: Rx-width-98;
+  animation-name: Rx-width-98;
   -webkit-animation-fill-mode: forwards;
   animation-fill-mode: forwards; }
 
